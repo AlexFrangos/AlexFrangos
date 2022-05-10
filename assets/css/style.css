@@ -1048,3 +1048,9 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.card-img-top {
+  width: 100%;
+  height: 25vw;
+  object-fit: cover;
+}
